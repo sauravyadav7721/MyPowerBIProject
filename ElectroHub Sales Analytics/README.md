@@ -40,7 +40,7 @@ This Power BI project analyzes sales data across multiple product categories, ti
 - **Excel / SQL** – Data sources  
 
 ## 📸 Screenshots  
-(Add dashboard screenshots here)  
+![Dashboard](https://drive.google.com/file/d/1LgV7I_SnIJ0ttSuzlemSDhFpiPMRPF7i/view?usp=sharing)
 
 ## 🔗 Live Demo & Report File  
 📥 **[Download PBIX File](#)** *(Replace `#` with actual Power BI report link)*  
