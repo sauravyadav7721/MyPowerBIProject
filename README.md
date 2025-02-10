@@ -15,9 +15,6 @@ This Power BI project includes:
 ## 📸 Screenshots  
 (Add screenshots of your Power BI dashboards here to make the README more engaging.)  
 
-## 🔗 Live Demo & Report File  
-📥 **[Download PBIX File](#)** *(Replace `#` with the actual link to your Power BI file.)*  
-
 ## 🛠️ Tools & Technologies  
 - **Power BI** – Data visualization & reporting  
 - **DAX (Data Analysis Expressions)** – Advanced calculations  
