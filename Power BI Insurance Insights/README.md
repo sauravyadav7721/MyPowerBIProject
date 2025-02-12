@@ -35,12 +35,6 @@ This Power BI project visualizes insurance claims and policies data, offering ke
 - **Power Query** – Data transformation & cleansing  
 - **Excel / SQL** – Data sources  
 
-## 📸 Screenshots  
-(Add dashboard screenshots here)  
-
-## 🔗 Live Demo & Report File  
-📥 **[Download PBIX File](#)** *(Replace `#` with actual Power BI report link)*  
-
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
