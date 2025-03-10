@@ -11,7 +11,8 @@
 
 ## 📂 Project Overview  
 This Power BI project includes:  
-- 📈 **Sales & Revenue Analysis Dashboard** – Tracks key business metrics.  
+- 📈 **Sales & Revenue Analysis Dashboard** – Tracks key business metrics. 
+- 📈 **Insurance Insights** – Tracks key business metrics.
 ## 📸 Screenshots  
 (Add screenshots of your Power BI dashboards here to make the README more engaging.)  
 
