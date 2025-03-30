@@ -16,12 +16,12 @@ Atliq Grands faced **a decline in revenue and market share** over the past few m
 ✔ **Cancellation trend analysis** to reduce revenue loss.  
 
 ## 📌 Project Files  
-- **Power BI Dashboard (.pbix)** – [Insert link]  
-- **Dataset (.xlsx/.csv)** – [Insert link]  
-- **Presentation Report (.pdf)** – [Insert link]  
+- **Power BI Dashboard (.pbix)** – [Uploaded Above]  
+- **Dataset (.xlsx/.csv)** – [Uploaded Above]  
+- **Presentation Report (.pdf)** – [Uploaded Above]  
 
 ## 🔗 Live Dashboard / Demo  
-[Insert Power BI report link if published online]  
+[Uploaded Above] 
 
 ## 🛠️ Tech Stack  
 - **Power BI** – Data visualization & analysis  
